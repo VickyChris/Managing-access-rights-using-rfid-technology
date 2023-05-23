@@ -103,7 +103,7 @@ if (x == 200) {
 6. Upload your sketch to the NodeMCU esp8266 board and monitor the serial output to ensure that your data is being sent successfully.
 
 ## Contact
-twitter: - [vitaltakachris1](https://twitter.com/vitaltakachris1) 
+Twitter: - [vitaltakachris1](https://twitter.com/vitaltakachris1) 
 
 Project Link: -  [https://github.com/VickyChris/Managing-access-rights-using-rfid-technology](https://github.com/VickyChris/Managing-access-rights-using-rfid-technology)
 
